@@ -1,0 +1,5 @@
+.env
+.env.docker
+venv/
+.idea
+__pycache__/
